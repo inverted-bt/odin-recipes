@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.home-head, .home-list, h1{
+    text-align: center;
+}
+
+.home-head{
+    margin-left: 30px;
+}
+.home-list > *{
+    margin-bottom:  20px;
+}
+
+.recipe-content{
+    font-size: 21px;
+}
+
+.sushi{
+    font-size: 18px;
+}
+
+img{
+    width: auto;
+    height: 800px;
+    border: 5px solid rgba(0, 0, 0, 0.493);
+    float: right;
+}
+
+.backhome{
+    font-weight: bold;
+}
+
