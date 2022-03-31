@@ -13,6 +13,7 @@
 }
 .home-list > *{
     margin-bottom:  20px;
+    list-style-position: inside;
 }
 
 .recipe-content{
